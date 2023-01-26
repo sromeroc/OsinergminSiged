@@ -1,5 +1,20 @@
 [ {
   "baseItem" : {
+    "id" : "_18-ToJ21Ee2kmaZ4jyQV2Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_4gup0J21Ee2kmaZ4jyQV2Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_4gup0J21Ee2kmaZ4jyQV2Q - TABLAPRUEBA",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_AGfQkGxMEeuag8RUlWiaaA",
     "version" : "0.1",
     "type" : "job"
