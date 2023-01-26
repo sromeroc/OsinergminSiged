@@ -13,4 +13,19 @@
     "version" : "Latest",
     "type" : "context"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "__bfagJ3LEe2whtTna9VvDw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DKnXoJ3MEe2whtTna9VvDw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DKnXoJ3MEe2whtTna9VvDw - TABLAPRUEBA",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
