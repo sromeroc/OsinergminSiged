@@ -35,11 +35,15 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_g7nkUKRFEe2Z19G7lPdilg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_rmS5wKQCEe2_XssYt4-F4w",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_rmS5wKQCEe2_XssYt4-F4w - APR_TT_REPORTES_VENTAS",
+    "id" : "_g7nkUKRFEe2Z19G7lPdilg - APR_TT_REPORTES_VENTAS",
     "version" : "Latest",
     "type" : "schema"
   } ]
